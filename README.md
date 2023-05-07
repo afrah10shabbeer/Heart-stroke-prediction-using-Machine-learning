@@ -17,5 +17,3 @@ This dataset is used to predict whether a patient is likely to get stroke based 
 12) **stroke:** 1 if the patient had a stroke or 0 if not (This it the target variable in our perdiction system) 
 
 ***Note:** "Unknown" in smoking_status means that the information is unavailable for this patient
-
-Get the dataset here: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
