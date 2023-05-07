@@ -18,3 +18,4 @@ This dataset is used to predict whether a patient is likely to get stroke based 
 
 ***Note:** "Unknown" in smoking_status means that the information is unavailable for this patient
 
+Get the dataset here: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
